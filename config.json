@@ -1,0 +1,8 @@
+{
+    "prod_url": "",
+    "dev_url": "",
+    "copyFiles": "false=>placeholder",
+    "tlDomain": "https://mandy-deno-deploy.deno.dev",
+    "updateFreq": "weekly",
+    "hasLoopContent": "false"
+}
